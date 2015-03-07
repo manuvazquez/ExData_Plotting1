@@ -1,3 +1,5 @@
+Sys.setlocale("LC_TIME", "en_US.UTF-8")
+
 # URL to the "zip" file
 fileURL <- 'http://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip'
 
